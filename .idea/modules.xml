@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0 Getting Started/0 Getting Started.iml" filepath="$PROJECT_DIR$/0 Getting Started/0 Getting Started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Language Fundamentals/01 Language Fundamentals.iml" filepath="$PROJECT_DIR$/01 Language Fundamentals/01 Language Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 Classes and Objects/02 Classes and Objects.iml" filepath="$PROJECT_DIR$/02 Classes and Objects/02 Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 Advanced Language Features/03 Advanced Language Features.iml" filepath="$PROJECT_DIR$/03 Advanced Language Features/03 Advanced Language Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Basic APIs/04 Basic APIs.iml" filepath="$PROJECT_DIR$/04 Basic APIs/04 Basic APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Collection Framework/05 Collection Framework.iml" filepath="$PROJECT_DIR$/05 Collection Framework/05 Collection Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Functional Programming/06 Functional Programming.iml" filepath="$PROJECT_DIR$/06 Functional Programming/06 Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Concurrency Utilites/07 Concurrency Utilites.iml" filepath="$PROJECT_DIR$/07 Concurrency Utilites/07 Concurrency Utilites.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Classic IO/08 Classic IO.iml" filepath="$PROJECT_DIR$/08 Classic IO/08 Classic IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Accessing Network/09 Accessing Network.iml" filepath="$PROJECT_DIR$/09 Accessing Network/09 Accessing Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 New IO/10 New IO.iml" filepath="$PROJECT_DIR$/10 New IO/10 New IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 Accessing Databaases/11 Accessing Databaases.iml" filepath="$PROJECT_DIR$/11 Accessing Databaases/11 Accessing Databaases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 Working with JSON and XML/12 Working with JSON and XML.iml" filepath="$PROJECT_DIR$/12 Working with JSON and XML/12 Working with JSON and XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 Date and Time/13 Date and Time.iml" filepath="$PROJECT_DIR$/13 Date and Time/13 Date and Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+    </modules>
+  </component>
+</project>
